@@ -31,7 +31,6 @@ Crear una base de datos de ciudadanos que se postulen a cargos publicos y vincul
 - Ejecutar 'npm install'
 - copiar el archivo .env.example a .env
 - Escriba 'php artisan key:generate'
-- Escriba 'php artisan storage:link' para añadir acceso al almacenamiento público.
 - Edite el archivo .env (no .env.example) y, en la configuración de mysql, coloque el nombre de la base de datos, el nombre de usuario y la contraseña.
 - Escriba 'php artisan migrate' para configurar las tablas en la base de datos.
 
