@@ -25,7 +25,7 @@ Crear una base de datos de ciudadanos que se postulen a cargos publicos y vincul
 - Asegúrese de que PHP 7+ y Mysql estén instalados y en ejecución. Recomiendo Xampp para usuarios de Windows.
 - Cree una base de datos mysql vacía y anote el nombre, el nombre de usuario y la contraseña.
 - Asegúrese de que git está instalado.
-- A través de la consola escriba "git clone https://github.com/JeiBless/Politik". Esto creará una carpeta politik en su directorio actual.
+- A través de la consola escriba "git clone https://github.com/bernardo-castro/Politik". Esto creará una carpeta politik en su directorio actual.
 - Cd en ese directorio.
 - Ejecutar 'instalación de compositor'
 - Ejecutar 'npm install'
